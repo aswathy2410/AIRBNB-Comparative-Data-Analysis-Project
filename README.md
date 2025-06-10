@@ -7,7 +7,7 @@ The initial data preprocessing was conducted using Python, ensuring the data is 
 
 The analysis is structured into four main sections, each delivered through its respective dashboard:
 
-Neighborhood Overview: Provides contextual insights about each neighborhood, including key statistics, distribution of listings, and general characteristics.
-Property Trends: Examines property features, such as property types, room types, and availability patterns across both locations.
-Pricing Trends: Analyzes price distributions, seasonal variations, and overall pricing strategies within each neighborhood.
-Host Analysis: Explores host activity, including the number of listings per host, hosting consistency, and host response behaviors.
+Neighborhood Overview: Provides contextual insights about each neighborhood, including key statistics, distribution of listings, and general characteristics.\n
+Property Trends: Examines property features, such as property types, room types, and availability patterns across both locations.\n
+Pricing Trends: Analyzes price distributions, seasonal variations, and overall pricing strategies within each neighborhood.\n
+Host Analysis: Explores host activity, including the number of listings per host, hosting consistency, and host response behaviors.\n
